@@ -1,0 +1,1 @@
+[29-Jul-2017 18:54:09 Asia/Kolkata] PHP Fatal error:  Call to a member function get_where() on null in /home/politekn/public_html/simpusman/application/modules/simpeg_data_dosen/controllers/Simpeg_data_dosen.php on line 113
